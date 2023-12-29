@@ -28,4 +28,5 @@ Here is a dataset we collected from a Fashion and Beauty startup. The dataset is
 - Costs
 
 Example :
+
 ![image](https://github.com/ChiTrug/Data-Analysis--Supply-Chain-Optimization/assets/125122891/29c5dfa8-7865-4c57-a184-509fea719f26)
